@@ -1,3 +1,11 @@
+> REQUIREMENTS
+
+```
+Biopython
+seqkit
+```
+
+
 > USAGE
 
 ```
