@@ -9,7 +9,7 @@ seqkit
 > USAGE
 
 ```
-sh evm_id_modifier.sh <fasta file> <species name prefix> <gff3 file> <output fasta file name> <output gff3 file name>
+sh evm_id_modifier.sh <transcript fasta file> <species name prefix> <gff3 file> <output fasta file name> <output gff3 file name>
 ```
 
 
